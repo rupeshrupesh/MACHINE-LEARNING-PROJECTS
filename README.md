@@ -1,1 +1,1 @@
-# Bank-Marketing-Campaign-analysis
+# MACHINE LEARNING PROJECTS
